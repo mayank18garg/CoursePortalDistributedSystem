@@ -1,0 +1,44 @@
+{
+  "courses": [
+    {
+      "Code": "CSE445",
+      "Name": "fds",
+      "seats": 29
+    },
+    {
+      "Code": "fs123",
+      "Name": "soft",
+      "seats": 0
+    },
+    {
+      "Code": "CSE3333",
+      "Name": "t",
+      "seats": 6
+    },
+    {
+      "Code": "CSE33f",
+      "Name": "t",
+      "seats": 6
+    },
+    {
+      "Code": "Mayank",
+      "Name": "dfsfs",
+      "seats": 0
+    },
+    {
+      "Code": "CSE598",
+      "Name": "Data Driven optimization",
+      "seats": 50
+    },
+    {
+      "Code": "fsfsfs",
+      "Name": "fsfs",
+      "seats": 34
+    },
+    {
+      "Code": "CSE512",
+      "Name": "NLP",
+      "seats": 4
+    }
+  ]
+}
